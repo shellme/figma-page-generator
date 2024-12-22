@@ -1,0 +1,10 @@
+{
+  "api": "1.0.0",
+  "editorType": [
+    "figma"
+  ],
+  "id": "figma-page-generator",
+  "name": "Figma Page Generator",
+  "main": "build/main.js",
+  "ui": "build/ui.js"
+}
