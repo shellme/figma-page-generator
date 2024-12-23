@@ -18,9 +18,13 @@
     "editorType": [
       "figma"
     ],
-    "id": "figma-page-generator",
+    "id": "1452691352498126316",
     "name": "Figma Page Generator",
     "main": "src/main.ts",
-    "ui": "src/ui.tsx"
+    "ui": "src/ui.tsx",
+    "networkAccess": {
+      "allowedDomains": ["none"]
+    },
+    "documentAccess": "dynamic-page"
   }
 }
